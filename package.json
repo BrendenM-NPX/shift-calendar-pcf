@@ -13,6 +13,10 @@
   },
   "dependencies": {
     "@fluentui/react": "8.29.0",
+    "@fullcalendar/core": "^6.1.8",
+    "@fullcalendar/daygrid": "^6.1.8",
+    "@fullcalendar/react": "^6.1.8",
+    "@fullcalendar/timegrid": "^6.1.8",
     "moment": "^2.29.4",
     "node": "^20.5.1",
     "react": "16.8.6",

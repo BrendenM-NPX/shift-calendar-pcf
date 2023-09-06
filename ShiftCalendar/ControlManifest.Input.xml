@@ -18,7 +18,7 @@
       <code path="index.ts" order="1"/>
       <platform-library name="React" version="16.8.6" />
       <platform-library name="Fluent" version="8.29.0" />
-      <css path="css/ShiftCalendar.css" order="1" />
+      <css path="css/ShiftCalendar.css" order="25"/>
       <!---> UNCOMMENT TO ADD MORE RESOURCES
       <resx path="strings/ShiftCalendar.1033.resx" version="1.0.0" />
       -->
