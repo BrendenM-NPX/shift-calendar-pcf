@@ -29,13 +29,13 @@
 }
 .crew-a{
 
-  background-color: red;
+  background-color: rgba(118, 244, 79, 0.984);
   font-weight: bold;
 }
 
 .crew-b{
 
-  background-color: blue;
+  background-color: rgba(75, 178, 238, 0.877);
   font-weight: bold;
   
 }
@@ -61,6 +61,7 @@
 
 }
 
+
 .fc-daygrid-day-number {
   padding: 4px;
   position: absolute !important;
@@ -78,4 +79,23 @@
   margin: 0 !important;
   color: rgba(102,204,0,1);
   padding: 5px;
+  text-align: center;
+}
+.fc table{
+  border-color: black;
+
+
+
+}
+.fc-col-header{
+
+  background-color: rgba(99,100,102,1);
+  color: rgba(102,204,0,1);
+  border-color: black;
+
+}
+
+#Day{
+
+  background-color: yellow !important;
 }
